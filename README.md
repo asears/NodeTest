@@ -10,3 +10,6 @@ https://help.github.com/articles/adding-an-existing-project-to-github-using-the-
 Push-Pull multiple locations
 http://stackoverflow.com/questions/849308/pull-push-from-multiple-remote-locations
 
+Get it hosted
+http://www.hostingadvice.com/blog/where-to-find-free-node-js-hosting/
+
